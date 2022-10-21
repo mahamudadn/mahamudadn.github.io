@@ -16,6 +16,15 @@ body{
   line-height:120%;
 }
 
+.img{
+  width:30%;
+  height:30%;
+  float:right;
+  padding:10% 10%;
+  margin-top:-80px
+  
+}
+
 .exp-header{
   text-align: center;
   text-transform: uppercase;
