@@ -1,0 +1,60 @@
+
+body{
+    padding-left: 400px;
+    padding-right: 400px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  line-height: normal;
+    word-spacing: 2px;
+ background-color: yellowgreen;
+ text-align: left;
+}
+h1, h4 {
+    font-family: 'Times New Roman', Times, serif;
+    border-bottom: 1px solid black;
+    margin-top: 15px;
+   
+
+ 
+}
+ h4{
+    word-spacing: 2px;
+    line-height: 10%;
+    border-bottom: 1px solid black;
+    font-family: tahoma;
+ }
+
+li{
+    word-spacing: 2px;
+    line-height: 100%;
+    line-height: normal;
+}
+.title{
+    text-align: left;
+}
+.date{
+  float: right;
+   
+}
+
+img{
+    width: 20%;
+    float:right;
+  margin-top: -50px;
+  opacity: 1;
+  border: 2px;
+  border-radius: 1px;
+
+}
+
+.prof{
+    line-height: 100%;
+    word-spacing: 1.5px;
+}
+
+.footer{
+    margin: 20px;
+    padding: 0;
+    text-align: center;
+}
+
